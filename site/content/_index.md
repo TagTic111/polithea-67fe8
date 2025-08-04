@@ -1,35 +1,26 @@
 ---
-title: Polithea Osnabrück
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Polithea Osnabrück – Theater der Unterdrückten
+subtitle: Theater, das den Dialog eröffnet.
+image: img/ai-generated-8532273_1280.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Wir machen Theater zum Werkzeug
+  text: Willkommen bei Polithea! Wir sind Osnabrücks Bühne für gesellschaftlichen
+    Wandel. Mit den interaktiven Methoden des Theaters der Unterdrückten
+    verwandeln wir passive Zuschauende in aktive Mitgestaltende, die gemeinsam
+    Lösungen für reale Probleme erproben.
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
-products:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  heading: Worum es bei uns geht
+  text: Unsere Arbeit ist direkt am Puls der Zeit. Wir nutzen die Bühne, um uns
+    kritisch mit dem auseinanderzusetzen, was uns bewegt. Bisherige Themen waren
+    unter anderem die Diskursverschiebung nach rechts, Sexismus, die
+    Wertschätzung von Care-Arbeit und die historische Verantwortung bei der
+    Euthanasie von Menschen mit Behinderung. Wir schaffen einen sicheren Raum,
+    um auch schwierige Fragen zu verhandeln.
+products: []
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: "Offen für alle: Mach mit!"
+  text: Jeden Montag um 18:30 Uhr treffen wir uns in der Bambule35 (Hannoversche
+    Str. 35), um diese Methoden zu trainieren, neue Szenen zu entwickeln und
+    über die Themen zu diskutieren, die uns unter den Nägeln brennen. Komm
+    vorbei und mach mit!
 ---
