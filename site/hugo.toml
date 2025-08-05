@@ -5,4 +5,4 @@ title = "Polithea"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
-images = ["img/og-image.jpg"]
+images = ["img/image.png"]
