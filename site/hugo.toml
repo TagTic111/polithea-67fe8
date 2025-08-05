@@ -1,70 +1,28 @@
-# --- Grundkonfiguration ---
-# Die baseURL sollte deine endgültige Domain sein, sobald sie verbunden ist.
-# Für die Netlify-Vorschau ist die Adresse von Netlify am besten.
 baseURL = "https://gilded-pasca-5bc1eb.netlify.app/"
 languageCode = "de-de"
 title = "Polithea – Theater der Unterdrückten Osnabrück"
-theme = "kaldi" # Name des Themes, das du benutzt
-
-# Deaktiviert für die Einfachheit unnötige Seiten wie Kategorien oder Tags
+theme = "kaldi"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
-
-# --- Theme-spezifische Parameter ---
 [params]
-  # Dies ist der korrekte Pfad zu eurem Logo. 
-  # Die Datei muss im Ordner `static/images/` liegen.
-  logo = "/images/logo.png" # <-- Ersetze das mit dem Dateinamen deines Logos
+logo = "/images/logo.png"
+phone = ""
+email = "act@polithea.de"
+images = ["img/logo.png"]
 
-  # Diese Felder kannst du ausfüllen, wenn du sie brauchst.
-  # Sie erscheinen eventuell auf der Kontaktseite oder im Footer.
-  phone = ""
-  email = "act@polithea.de" # <-- Trage hier eure Kontakt-E-Mail ein
-
-
-# --- Hauptmenü in der Navigation ---
-# Hier definierst du die Links, die oben auf der Seite im Menü erscheinen.
-# Das ist die sauberste Methode, das Menü zu steuern.
+[menu]
 
 [[menu.main]]
-  name = "Über Uns"
-  url = "/about"
-  weight = 1
+name = "Über Uns"
+url = "/about"
+weight = 1
 
 [[menu.main]]
-  # Der Name, der im Menü angezeigt wird
-  name = "Unsere Arbeit" 
-  # Die URL, die aufgerufen wird. Muss zum Ordnernamen im `content`-Verzeichnis passen.
-  # Deine Seite heißt im Menü "Products", also verlinken wir auf `/products`.
-  url = "/products"
-  weight = 2
+name = "Unsere Arbeit"
+url = "/products"
+weight = 2
 
 [[menu.main]]
-  name = "Blog"
-  url = "/blog"
-  weight = 3
-
-# [[menu.main]]
-#   name = "Kontakt"
-#   url = "/contact"
-#   weight = 4
-
-
-# --- Social Media Links (optional) ---
-# Diese erscheinen als Icons im Footer.
-# Kommentiere die Blöcke mit # aus, die ihr nicht braucht.
-
-# [[params.social]]
-#   name = "Instagram"
-#   link = "https://www.instagram.com/euer-profil/" # <-- Euren Link hier eintragen
-#   icon = "instagram"
-
-# [[params.social]]
-#   name = "Facebook"
-#   link = "#"
-#   icon = "facebook"
-
-# [[params.social]]
-#   name = "Twitter"
-#   link = "#"
-#   icon = "twitter"
+name = "Blog"
+url = "/blog"
+weight = 3
