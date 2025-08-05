@@ -1,7 +1,6 @@
 baseURL = "https://gilded-pasca-5bc1eb.netlify.app/"
 languageCode = "de-de"
 title = "Polithea – Theater der Unterdrückten Osnabrück"
-theme = "kaldi"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
