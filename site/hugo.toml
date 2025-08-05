@@ -14,12 +14,12 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 [params]
   # Dies ist der korrekte Pfad zu eurem Logo. 
   # Die Datei muss im Ordner `static/images/` liegen.
-  logo = "/images/polithea-logo.png" # <-- Ersetze das mit dem Dateinamen deines Logos
+  logo = "/images/logo.png" # <-- Ersetze das mit dem Dateinamen deines Logos
 
   # Diese Felder kannst du ausfüllen, wenn du sie brauchst.
   # Sie erscheinen eventuell auf der Kontaktseite oder im Footer.
   phone = ""
-  email = "kontakt@polithea.de" # <-- Trage hier eure Kontakt-E-Mail ein
+  email = "act@polithea.de" # <-- Trage hier eure Kontakt-E-Mail ein
 
 
 # --- Hauptmenü in der Navigation ---
