@@ -4,7 +4,7 @@ title = "Polithea – Theater der Unterdrückten Osnabrück"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
-logo = "/images/logo.png"
+logo = "/img/logo.png"
 phone = ""
 email = "act@polithea.de"
 images = ["img/logo.png"]
